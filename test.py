@@ -23,5 +23,5 @@ def get_parse(base_url, headers):
            content = f'{text1} {text2}'
            print(content)
     else:
-        print('Error')
+        print('Error123')
 get_parse(base_url, header)
